@@ -3,4 +3,5 @@
     <string name="location">Location</string>
     <string name="temperature">17°C</string>
     <string name="description">Mostly Clear</string>
+    <string name="sunrise">Sunrise</string>
 </resources>
